@@ -1,4 +1,4 @@
-# Unity-Top-Down-Shooter-Tutorial
+# 🕹 Unity-Top-Down-Shooter-Tutorial
 A top view shooter for Unity tutorial
 
 ### Description
